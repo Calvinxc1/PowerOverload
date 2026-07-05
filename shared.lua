@@ -113,18 +113,6 @@ local function get_pole_names(mods, registered_poles)
     ["fixLargeElectricPole"] = {
       ["large-electric-pole"] = "16GW"
     },
-    ["Advanced_Electric"] = {
-      ["small-electric-pole-2"] = "24MW",
-      ["medium-electric-pole-2"] = "110MW",
-      ["medium-electric-pole-3"] = "120MW",
-      ["medium-electric-pole-4"] = "130MW",
-      ["big-electric-pole-2"] = "550MW",
-      ["big-electric-pole-3"] = "600MW",
-      ["big-electric-pole-4"] = "650MW",
-      ["substation-2"] = "150MW",
-      ["substation-3"] = "175MW",
-      ["substation-4"] = "200MW"
-    },
     ["AdvancedSubstation"] = {
       ["substation-2"] = "250MW",
       ["substation-3"] = "300MW",

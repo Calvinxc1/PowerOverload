@@ -34,7 +34,6 @@
     - [Bob's Power](https://mods.factorio.com/mod/bobpower)
     - [Bio Industries](https://mods.factorio.com/mod/Bio_Industries)
     - [Cargo Ships](https://mods.factorio.com/mod/cargo-ships)
-    - [Advanced Electric](https://mods.factorio.com/mod/Advanced_Electric)
     - [Advanced Substation](https://mods.factorio.com/mod/AdvancedSubstation)
     - [Omnienergy](https://mods.factorio.com/mod/omnimatter_energy)
     - [FactorioExtended Plus-Power](https://mods.factorio.com/mod/FactorioExtended-Plus-Power)
